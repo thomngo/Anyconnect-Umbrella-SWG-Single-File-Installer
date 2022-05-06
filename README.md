@@ -25,4 +25,4 @@ Usage:
 4. Compile the installer using the provided NSI file with the four above files in the same directory
 5. Deploy the installer as required
 
-YouTube Tutorial: https://www.youtube.com/watch?v=SYov_Hmbe6U
+YouTube Tutorial (2 minutes): https://www.youtube.com/watch?v=SYov_Hmbe6U
