@@ -19,7 +19,7 @@ Prerequisites:
 - NSIS 3.08 https://nsis.sourceforge.io/Download
 
 Usage:
-1. Download the latest Umbrella Root CA file from dashboard.umbrella.com
+1. Download the Module Profile and the latest Umbrella Root CA file from dashboard.umbrella.com
 2. Download and extract the Anyconnect Windows Pre-Deployment files from software.cisco.com
 3. Update the version string in the NSI file to versions desired (specified by X.X.XXXXX in the file name)
 4. Compile the installer using the provided NSI file with the four above files in the same directory
