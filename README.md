@@ -1,6 +1,8 @@
 #  Anyconnect Umbrella SWG Single File Installer 
 NSIS Script to build a single silent EXE Installer for Anyconnect Umbrella SWG
+
 **Version: 1.1**
+
 Release Notes: Added support for Firefox
 
 ## Tested Environment
