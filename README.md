@@ -27,4 +27,4 @@ This script creates an silent installer which installs and deploys:
 4. Compile the installer using the provided NSI file with the four above files in the same directory
 5. Deploy the installer as required
 
-**YouTube Tutorial** (2 minutes): https://www.youtube.com/watch?v=SYov_Hmbe6U
+**Youtube Tutorial** (2 minutes): https://www.youtube.com/watch?v=SYov_Hmbe6U
