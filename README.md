@@ -1,9 +1,9 @@
 #  Anyconnect Umbrella SWG Single File Installer 
 NSIS Script to build a single silent EXE Installer for Anyconnect Umbrella SWG
 
-**Version: 1.1**
+**Version: 1.2**
 
-Release Notes: Added support for Firefox
+Release Notes: Added DART Installer
 
 ## Tested Environment
 - Windows 10 21H1 (64 Bit)
@@ -14,6 +14,7 @@ Release Notes: Added support for Firefox
 This script creates an silent installer which installs and deploys:
 - Anyconnect Core VPN - anyconnect-win-X.X.XXXXX-core-vpn-predeploy-k9.msi
 - Anyconnect Umbrella Roaming Security Module - anyconnect-win-X.X.XXXXX-umbrella-predeploy-k9.msi
+- Anyconnect DART Module - anyconnect-win-X.X.XXXXX-dart-predeploy-k9.msi
 - Umbrella Root CA - Cisco_Umbrella_Root_CA.cer
 - Umbrella Module Profile - OrgInfo.json
 
