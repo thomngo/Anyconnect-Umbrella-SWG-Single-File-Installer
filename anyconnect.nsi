@@ -1,9 +1,9 @@
 /*
 
 Anyconnect Umbrella SWG Single File Installer NSIS Script
-Version: 1.1
+Version: 1.2
 Author: thomngo
-Release Notes: Added support for Firefox
+Release Notes: Added DART Module
 License: Apache License 2.0
 Deploys:
     Anyconnect Core VPN - anyconnect-win-X.X.XXXXX-core-vpn-predeploy-k9.msi
