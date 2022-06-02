@@ -3,7 +3,7 @@ NSIS Script to build a single silent EXE Installer for Anyconnect Umbrella SWG
 
 **Version: 1.2**
 
-Release Notes: Added DART Installer
+Release Notes: Added DART Module
 
 ## Tested Environment
 - Windows 10 21H1 (64 Bit)
