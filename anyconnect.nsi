@@ -27,7 +27,7 @@ Usage:
 ; Name dependencies, LogicLib for If loop
 !include LogicLib.nsh
 
-;  Name the installer
+; Name the installer
 Name "Anyconnect ${VERSION} Installer"
 
 ; Output file to write
