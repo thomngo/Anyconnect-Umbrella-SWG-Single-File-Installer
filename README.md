@@ -24,7 +24,7 @@ This script creates an silent installer which installs and deploys:
 ## Usage
 1. Download the Module Profile and the latest Umbrella Root CA file from dashboard.umbrella.com
 2. Download and extract the Anyconnect Windows Pre-Deployment files from software.cisco.com
-3. Download the NSI file and update the version as desired (specified by X.X.XXXXX in the file name)
+3. Download the NSI file and edit the file to deploy the version desired (specified by X.X.XXXXX in the file name)
 4. Compile the installer using the provided NSI file with the above files in the same directory
 5. Deploy the installer as required
 
